@@ -1,0 +1,23 @@
+Algorithm 
+1>
+Start: Begin the process.
+Input: Get three numbers from the user. Let's call them a,b,c.
+Calculate the Sum: Add the three numbers together:
+Calculate the Average: Divide the sum by 3:
+Output: Display the average to the user.
+End: Finish the process.
+
+2>
+Start: Begin the process.
+Input: Get the dimensions of the cuboid from the user:
+Length (length)
+Width (width)
+Depth (depth)
+Calculate the Volume:Volume=length×width×height
+Output: Display the volume to the user.
+End: Finish the process.
+
+3>
+Start: Begin the process.
+Output: Display the equation to the user.
+End: Finish the process.
